@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define MAX(x, y) (x > y ? x : y)
 #define DEBUG
-Descomentar a linha abaixo: MACROS ñ funcionam. 
+//Se Descomentar a linha abaixo: MACRO não funciona. 
 //#undef DEBUG
 
 int main(int argc, char *argv[]){
