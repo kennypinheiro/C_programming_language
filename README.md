@@ -15,19 +15,38 @@ Este repositório foi criado com o objetivo de consolidar meus estudos na **Ling
 📝 Conceitos Fundamentais Documentados
 
 Ao longo dos códigos, busco documentar e aplicar os seguintes pilares da linguagem:
+
 1. Tipagem e Sintaxe Estrita
+
 Diferente de linguagens de alto nível, C exige precisão na definição dos tipos de dados (int, float, char, double) e no uso correto dos especificadores de formato (%d, %f, %c).
 
 2. Controle de Fluxo e Lógica Discreta
+
 Implementação rigorosa de estruturas de decisão e laços de repetição, aplicando conceitos de álgebra booleana para otimização de condições.
 
 3. Gerenciamento de Memória
+
 A essência do C reside na capacidade de manipular a memória diretamente. Este módulo foca em:
 
     Aritmética de Ponteiros.
 
     Alocação Dinâmica na memória Heap.
 
+
 🛠️ Como Executar os códigos
 
 Para compilar e rodar os códigos deste repositório, você precisará de um compilador C (como o gcc).
+
+
+## 🗂️ Estrutura do Repositório
+
+O projeto está organizado por tópicos para facilitar a navegação:
+
+```text
+├── 01_Fundamentos/        # Variáveis, tipos de dados, operadores e Entrada/Saída
+├── 02_Estruturas/         # Condicionais (if/else, switch) e Repetição (while, for)
+├── 03_Funcoes/            # Escopo, protótipos e passagem de parâmetros
+├── 04_Vetores_Matrizes/   # Arrays unidimensionais e multidimensionais
+├── 05_Ponteiros/          # Endereçamento, aritmética de ponteiros e referências
+├── 06_Estruturas_Dados/   # Structs, Unions e Alocação Dinâmica (malloc, free)
+└── Exercicios/            # Desafios práticos e algoritmos resolvidos
