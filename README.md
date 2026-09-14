@@ -1,6 +1,6 @@
 # 🚀 Desvendando a Linguagem C: Conceitos & Exercícios
 
-Este repositório foi criado com o objetivo de consolidar meus estudos na **Linguagem C**. Aqui, você encontrará a implementação de diversos exercícios práticos, além de anotações essenciais sobre a sintaxe, lógica de programação e conceitos estruturais da linguagem (desde os fundamentos até tópicos avançados de computação).
+Este repositório foi criado com o objetivo de consolidar meus estudos na **Linguagem C**. Aqui, você encontrará a implementação de diversos exercícios práticos, além de anotações essenciais sobre a sintaxe, lógica de programação e conceitos estruturais da linguagem.
 
 ---
 
@@ -49,4 +49,4 @@ O projeto está organizado por tópicos para facilitar a navegação:
 ├── 04_Vetores_Matrizes/   # Arrays unidimensionais e multidimensionais
 ├── 05_Ponteiros/          # Endereçamento, aritmética de ponteiros e referências
 ├── 06_Estruturas_Dados/   # Structs, Unions e Alocação Dinâmica (malloc, free)
-└── Exercicios/            # Desafios práticos e algoritmos resolvidos
+└── 07_Exercicios/            # Desafios práticos e algoritmos resolvidos
